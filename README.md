@@ -11,5 +11,5 @@ fiz um método de curtir as figurinhas dos gatos
 
 outro médoto pra fazser a exclusão de foto
 
-e outros pra marcar e desmarcar as fotos curtidas.
+e outros pra favoritar e desfavoritar as fotos curtidas.
 
